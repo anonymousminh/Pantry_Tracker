@@ -86,7 +86,7 @@ export default function Home() {
 
   return (
     <Box width="100vw" height="100vh" display="flex" flexDirection="column" alignItems="center" p={3}>
-      <Typography variant="h3" color="primary" mb={4}>Pantry Tracker</Typography>
+      <Typography variant="h3" color="primary" mb={4}>Pantrify</Typography>
       
       <TextField
         variant="outlined"
